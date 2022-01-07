@@ -1,6 +1,6 @@
 # Mi Card
 
-## What you will learn
+## What I learn
 
 * create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
