@@ -1,7 +1,5 @@
 # Xylophone 🎹
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
-
 ## What you will learn
 
 - incorporate open source libraries of code into your project using Flutter Packages.
