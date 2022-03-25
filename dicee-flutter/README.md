@@ -1,8 +1,6 @@
 # Dicee 🎲
 ----
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
-
 ## What I learned
 
 - Flutter stateless widgets to design the user interface.
