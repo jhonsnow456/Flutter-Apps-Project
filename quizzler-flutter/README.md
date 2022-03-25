@@ -1,10 +1,5 @@
 # Quizzler ❓
 
-
-## What I will create
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
-
 ## What I learn
 
 - Modularising your code into separate classes.
